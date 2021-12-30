@@ -6,7 +6,6 @@
   2. [ClamAVNet](https://www.clamav.net/downloads)
   3. If not done yet, run a windows/linux vm that mimicks your target environment
 
-
-    -[Download Windows Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+   [Download Windows Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
 
